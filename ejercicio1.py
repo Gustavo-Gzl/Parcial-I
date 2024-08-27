@@ -10,7 +10,7 @@ propón una solución dentro de tu programa para ayudarle.
 desarrollo:
 Implementaremos una clase Producto que contenga atributos como nombre, precio de compra, 
 precio de venta y cantidad en inventario.
-Creamos una clase Tienda que administre una lista de productos. Esta clase debe permitir:
+Creamos una clase Tienda que administrara una lista de productos. Esta clase va permitir:
 Registrar una venta, calcular el total y el vuelto.
 Registrar productos de proveedores, actualizar inventario y ajustar precios.
 
